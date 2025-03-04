@@ -1,1 +1,2 @@
-# zest1235.github.io
+# Birthday Card 🎂 
+Responsive Birthday Card - Made with Jquery and CSS
